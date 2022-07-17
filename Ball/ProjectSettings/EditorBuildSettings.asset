@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OnTopGame.unity
+    guid: 3f46cc0f75e75d04dbd383618f6c3a18
+  - enabled: 1
+    path: Assets/Scenes/OnSideGame.unity
+    guid: 8e48e784b9f21c143b562ada50f0dbef
+  - enabled: 1
+    path: Assets/Scenes/TwoBricks.unity
+    guid: d9e8c12556c9e5e469c76892f2910395
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 04991b9cf37d47843a7c9d046a93603c
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 2b4ecb2abd8536c488f32814416e307c
+  m_configObjects: {}

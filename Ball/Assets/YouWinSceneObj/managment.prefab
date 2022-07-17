@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &326850384738283869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 326850384738283939}
+  - component: {fileID: 326850384738283868}
+  m_Layer: 0
+  m_Name: managment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &326850384738283939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326850384738283869}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.339623, y: 1.0447448, z: 94.05165}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &326850384738283868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326850384738283869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a83eae0b4c316b4981533287033a8c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsTopGame: 0
+  IsSideGame: 0
+  Is4bricksGame: 0
+  ball: {fileID: 0}
+  Right_Player_Paddle: {fileID: 0}
+  Right_Player_Goal: {fileID: 0}
+  Left_Player_Paddle: {fileID: 0}
+  Left_Player_Goal: {fileID: 0}
+  Top_Player_Paddle: {fileID: 0}
+  Top_Player_Goal: {fileID: 0}
+  Down_PLayer_Paddle: {fileID: 0}
+  Down_PLayer_Goal: {fileID: 0}
+  RightPaddle: {fileID: 0}
+  UpPaddle: {fileID: 0}
+  RightGoal: {fileID: 0}
+  UpGoal: {fileID: 0}
+  LeftPaddle: {fileID: 0}
+  DownPaddle: {fileID: 0}
+  LeftGoal: {fileID: 0}
+  DownGoal: {fileID: 0}
+  Right_Player_Text: {fileID: 0}
+  Left_Player_Text: {fileID: 0}
+  Top_Player_Text: {fileID: 0}
+  Down_Palyer_Text: {fileID: 0}
+  RightUp_Text: {fileID: 0}
+  LeftDown_Text: {fileID: 0}
+  YouWinText: {fileID: 0}

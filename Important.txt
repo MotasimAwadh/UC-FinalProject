@@ -1,0 +1,3 @@
+When the score equals 10, the speed of the ball will increase.
+When the score equals 20, the players speed will decrease.
+When the score equals 30, the game will be over.
